@@ -1,0 +1,15 @@
+2024-04-24 11:12:48:1248 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-04-24 11:14:30:1430 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-04-24 11:14:39:1439 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-04-24 11:14:49:1449 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-04-24 11:14:58:1458 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-04-24 11:14:58:1458 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-04-24 11:15:17:1517 - [31merror[39m: [31mNão foi possivel conectar ao banco de Dados[39m
+2024-04-24 11:15:17:1517 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.lt   1gna.mongodb.net[39m
+2024-04-24 11:15:17:1517 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-04-24 11:15:25:1525 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-04-24 11:15:25:1525 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-04-24 11:16:23:1623 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-04-24 11:16:23:1623 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-04-24 11:16:28:1628 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-04-24 11:16:28:1628 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m

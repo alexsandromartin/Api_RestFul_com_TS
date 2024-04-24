@@ -1,0 +1,2 @@
+2024-04-24 11:15:17:1517 - [31merror[39m: [31mNão foi possivel conectar ao banco de Dados[39m
+2024-04-24 11:15:17:1517 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.lt   1gna.mongodb.net[39m

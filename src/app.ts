@@ -14,13 +14,15 @@ import db from "../config/db"
 
 //Routes
 import router from "./router"
-
 app.use("/api/", router)
+
+//Logger
+import Logger from "../config/logger"
 
 // app port 
 const port = config.get<number>("port")
 
 app.listen(3000, async () => {
     await db()
-    console.log("A aplicação está funcionando na porta: 3000")
+    Logger.info("A aplicação está funcionando na porta: 3000")
 })
