@@ -4,12 +4,13 @@ const movieSchema = new Schema(
     {
     title: {type: String},
     rating: {type: Number},
-    desciption: {type: String},
+    description: {type: String},
+    director: {type: String},
     stars: {type: Array},
     poster: {type: String}
     },
     {
-        timestamps: true
+        timestamps: true //A data que o filme foi criado/atualizado
     }
 )
 
