@@ -1,2 +1,10 @@
 2024-04-24 11:15:17:1517 - [31merror[39m: [31mNão foi possivel conectar ao banco de Dados[39m
 2024-04-24 11:15:17:1517 - [31merror[39m: [31mErro: Error: querySrv ENOTFOUND _mongodb._tcp.cluster0.lt   1gna.mongodb.net[39m
+2024-05-17 17:12:46:1246 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6643d97e77e6ea1d121d13e" (type string) at path "_id" for model "Movie"[39m
+2024-05-17 17:12:57:1257 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6643d97e77e6ea1d121d13e" (type string) at path "_id" for model "Movie"[39m
+2024-05-17 17:13:38:1338 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6643d97e77e6ea1d121d1" (type string) at path "_id" for model "Movie"[39m
+2024-05-17 17:13:52:1352 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6643d97e77e6ea1d121d1" (type string) at path "_id" for model "Movie"[39m
+2024-05-17 17:16:04:164 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6643d97e77e6ea1d121d1" (type string) at path "_id" for model "Movie"[39m
+2024-05-17 17:19:23:1923 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6643d97e77e6ea1d121d1" (type string) at path "_id" for model "Movie"[39m
+2024-05-17 17:46:58:4658 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2024-05-17 17:47:26:4726 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m

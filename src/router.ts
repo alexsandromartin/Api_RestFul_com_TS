@@ -1,5 +1,5 @@
 import {Router, Response, Request} from "express"
-import { createMovie, findMovieById, getAllMovies } from "./controllers/movieController"
+import { createMovie, findMovieById, getAllMovies, removeMovie, updateMovie } from "./controllers/movieController"
 
 //validators
 import {validate} from "./middleware/hendleValidation"
@@ -12,3 +12,5 @@ export default router.get("/test", (req:Request, res:Response) => {
 }).post("/movie", movieCreateValidation(), validate, createMovie)
   .get("/movie/:id", findMovieById)
   .get("/movie", getAllMovies)
+  .delete("/movie/:id", removeMovie)
+  .patch("/movie/:id",movieCreateValidation(), validate, updateMovie) //atualização campo a campo

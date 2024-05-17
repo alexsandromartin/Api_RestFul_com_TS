@@ -315,3 +315,141 @@
 2024-05-16 17:54:56:5456 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
 2024-05-16 17:55:07:557 - [32minfo[39m: [32mConectou ao banco de dados[39m
 2024-05-16 17:55:07:557 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:05:18:518 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:05:18:518 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:05:25:525 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:05:25:525 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:05:37:537 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:05:37:537 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:06:08:68 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:06:08:68 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:06:14:614 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:06:14:614 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:07:38:738 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:07:38:738 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:07:56:756 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:07:56:756 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:08:06:86 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:08:06:86 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:08:15:815 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:08:15:815 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:08:30:830 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:08:30:830 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:08:33:833 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:08:33:833 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:08:44:844 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:08:44:844 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:08:53:853 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:08:53:853 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:09:47:947 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:09:47:947 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:09:52:952 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:09:52:952 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:09:58:958 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:09:58:958 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:10:16:1016 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:10:16:1016 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:12:46:1246 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6643d97e77e6ea1d121d13e" (type string) at path "_id" for model "Movie"[39m
+2024-05-17 17:12:57:1257 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6643d97e77e6ea1d121d13e" (type string) at path "_id" for model "Movie"[39m
+2024-05-17 17:13:38:1338 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6643d97e77e6ea1d121d1" (type string) at path "_id" for model "Movie"[39m
+2024-05-17 17:13:52:1352 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6643d97e77e6ea1d121d1" (type string) at path "_id" for model "Movie"[39m
+2024-05-17 17:15:45:1545 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:15:45:1545 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:16:04:164 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6643d97e77e6ea1d121d1" (type string) at path "_id" for model "Movie"[39m
+2024-05-17 17:19:23:1923 - [31merror[39m: [31mErro no sistema: Cast to ObjectId failed for value "6643d97e77e6ea1d121d1" (type string) at path "_id" for model "Movie"[39m
+2024-05-17 17:21:15:2115 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:21:15:2115 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:21:29:2129 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:21:30:2130 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:21:35:2135 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:21:35:2135 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:21:51:2151 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:21:51:2151 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:21:55:2155 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:21:55:2155 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:22:00:220 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:22:00:220 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:22:05:225 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:22:05:225 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:22:16:2216 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:22:16:2216 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:22:26:2226 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:22:26:2226 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:22:31:2231 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:22:31:2231 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:22:38:2238 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:22:38:2238 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:26:01:261 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:26:01:261 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:26:15:2615 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:26:15:2615 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:26:20:2620 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:26:20:2620 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:26:27:2627 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:26:27:2627 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:26:35:2635 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:26:35:2635 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:27:35:2735 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:27:35:2735 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:28:16:2816 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:28:16:2816 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:28:51:2851 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:28:51:2851 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:29:45:2945 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:29:45:2945 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:29:51:2951 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:29:51:2951 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:30:00:300 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:30:00:300 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:30:20:3020 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:30:20:3020 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:30:37:3037 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:30:37:3037 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:30:49:3049 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:30:49:3049 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:30:55:3055 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:30:55:3055 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:31:05:315 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:31:05:315 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:31:14:3114 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:31:14:3114 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:33:35:3335 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:33:35:3335 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:33:39:3339 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:33:39:3339 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:33:44:3344 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:33:44:3344 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:33:52:3352 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:33:52:3352 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:33:57:3357 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:33:57:3357 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:34:15:3415 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:34:15:3415 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:34:23:3423 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:34:23:3423 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:34:43:3443 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:34:43:3443 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:36:50:3650 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:36:50:3650 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:42:53:4253 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:42:53:4253 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:43:01:431 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:43:01:431 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:43:07:437 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:43:07:437 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:43:14:4314 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:43:14:4314 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:43:17:4317 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:43:17:4317 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:43:23:4323 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:43:23:4323 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:43:31:4331 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:43:31:4331 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:43:36:4336 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:43:36:4336 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:43:40:4340 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:43:40:4340 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
+2024-05-17 17:46:58:4658 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2024-05-17 17:47:26:4726 - [31merror[39m: [31mErro no sistema: Performing an update on the path '_id' would modify the immutable field '_id'[39m
+2024-05-17 17:48:59:4859 - [32minfo[39m: [32mConectou ao banco de dados[39m
+2024-05-17 17:48:59:4859 - [32minfo[39m: [32mA aplicação está funcionando na porta: 3000[39m
